@@ -16,6 +16,8 @@ def Cdiv(a0,b0,a1,b1):
     an,bn=Coon(a1,b1)
     an,bn=Cmul(a0,b0,an,bn)
     return an,bn
+def Cpow(a,b):
+    return a*a-b*b,2*a*b
 def Cexp(a,b,e):
     if e==0:
         return 1,0
