@@ -2,7 +2,7 @@
 #all complex are a,b
 import math
 def Cadd(a0,b0,a1,b1):
-    return a0+a1,b0-b1
+    return a0+a1,b0+b1
 def Csub(a0,b0,a1,b1):
     return a0-a1,b0-b1
 def Cmul(a0,b0,a1,b1):
