@@ -1,0 +1,32 @@
+This uses functions in this structure:
+NpXxxx-For Numpy functions
+Xxxx
+The first character is the function of math/physics(Usually math)/Computer science.
+The next are instruction inputs
+A=Ai(Neural Network)
+B=Data Structures
+C=Complex Numbers
+D=Derivatives and Calculus
+E=Encryption
+F=(Fourier) Transforms
+G=Graph
+H=
+I=Geometry
+J=
+K=
+L=
+M=Matrix
+N=Fractions(Z/Z)
+O=
+P=Polinomial
+Q=Quaternoids
+R=Probability
+S=Sort
+T=Physics
+U=
+V=Vectors
+W=
+X=BlockChain
+Y=Screen ops, needs to be inicialized and pygame needs to be installed
+Z=
+THIS LIBRARY IS WORK IN PROGRESS AND OPEN SOURCED
