@@ -27,6 +27,6 @@ U=
 V=Vectors
 W=
 X=BlockChain
-Y=Screen ops, needs to be inicialized and pygame needs to be installed
+Y=Screen ops, Use pygame(recommended)
 Z=
 THIS LIBRARY IS WORK IN PROGRESS AND OPEN SOURCED
