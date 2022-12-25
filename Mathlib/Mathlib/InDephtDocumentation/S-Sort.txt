@@ -1,0 +1,8 @@
+Squi:
+Quicksort of a real number list
+Squi([3,5,4,1,4])=[1,3,4,4,5]
+Ssor:
+Is sorted?
+Returns true or false if is sorted
+Ssor([3,5,4,1,4])=false
+Ssor([1,3,4,4,5])=true
